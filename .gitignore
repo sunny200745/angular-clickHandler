@@ -1,0 +1,15 @@
+node_modules
+dist
+coverage
+.tmp
+.sass-cache
+app/vendor
+.idea
+*.iml
+dist.zip
+test/
+.bowerrc
+.editorconfig
+.gitattributes
+.jshintrc
+.travis.yml
