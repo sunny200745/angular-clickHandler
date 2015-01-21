@@ -13,3 +13,4 @@ test/
 .gitattributes
 .jshintrc
 .travis.yml
+.DS_Store
